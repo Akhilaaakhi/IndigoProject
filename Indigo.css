@@ -1,0 +1,29 @@
+#outer{
+    height: 300px;
+    width: vw;
+    background-color: aquamarine;
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+}
+#navbar{
+    height: 30px;
+    width: 100vw;
+    border-color: aquamarine;
+    border-width: 40px;
+    border-style: solid;
+    display: inline;
+
+}
+input{
+    height: 30px;
+    width: 200px;
+    margin:30px;
+    margin-bottom: 85px;
+}
+button{
+    height: 30px;
+    width: 140px;
+    border:3px,solid,grey;
+    border-radius: 30px;
+}
